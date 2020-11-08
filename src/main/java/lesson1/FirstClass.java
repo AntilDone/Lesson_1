@@ -2,10 +2,10 @@ public class FirstClass {
     public static void main(String[] args) {
 
         Versions();
-
+        
         float calculate = isCalculate(1.5f,5.6f,9.65f,15.3f);
         System.out.println("Answer a * ( b + (c / d )) = " + calculate);
-
+        
         boolean border = isBorder(12,5);
         System.out.println("Answer Sum = " + border);
 
